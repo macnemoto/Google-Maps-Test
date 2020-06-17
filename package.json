@@ -1,0 +1,23 @@
+{
+  "name": "google-maps",
+  "version": "1.0.0",
+  "description": "App de google maps prueba",
+  "main": "index.js",
+  "dependencies": {
+    "bulma-start": "^0.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macnemoto/Google-Maps-Test.git"
+  },
+  "author": "Marcos Pirela",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/macnemoto/Google-Maps-Test/issues"
+  },
+  "homepage": "https://github.com/macnemoto/Google-Maps-Test#readme"
+}
